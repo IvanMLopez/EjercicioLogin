@@ -1,0 +1,57 @@
+.contenedor{
+    display: block;
+    margin: 0 auto;
+    background-color: #f0efeb;
+    width: 400px;
+    height: 400px;
+    box-shadow: -1px 4px 12px 12px rgba(0,0,0,0.75);
+    border-radius: 5px;
+
+}
+.avatar img{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
+}
+.titulo {
+    text-align: center;
+    
+}
+
+.input{
+    display: block;
+    margin: 0 auto;
+    height: 40px;
+    width: 250px;
+    margin-bottom: 10px;
+}
+
+.inicio{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: grey;
+    background-color: blue;
+    width: 250px;
+    height:40px;
+    margin: 0 auto;
+    font-size: 20px;
+    color: white;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.pass{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    margin: 0 auto;
+    background-color: #d8e2dc;
+    border-radius: 2px;
+    width: 180px;
+    margin-top: 10px;
+    height: 25px;
+    color: black;
+    border-radius: 2px;
+}
